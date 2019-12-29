@@ -2,6 +2,8 @@ This repository has the goal of applying different machine learning techniques a
 
 
 ## Task 1: Visualize Latin America Forms of Government from 1800-2019
+The file `gov_forms_visualized.png` provides a ready-made image of the visualization for easier review without having to run the notebook first.
+
 ### Forms of government considered
 - Military dictatorship (M)
 - Democracy - left-leaning (DL)
